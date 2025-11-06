@@ -8,9 +8,7 @@
 
 ## Abstract
 
-On the **base-12 (dozenal) Cartesian plane**, geometric constructions reveal regular polygons and tiling patterns that are *exact* due to 12's rich divisor set (1, 2, 3, 4, 6, 12). This work proves the existence of a **24-sided regular polygon (icositetragon)** with vertices at rational dozenal coordinates—impossible to express exactly in base-10 without irrational numbers.
-
-This discovery exposes a **base-dependent geometric bias** in standard mathematics and suggests new avenues in crystallography, quantum lattice models, and number-theoretic geometry.
+On the **base-12 (dozenal) Cartesian plane**, a regular 24-gon closes exactly under 15° rotations due to dozenal-rational trigonometric values. This reveals geometric structures invisible in base-10 and enables perfect 360° circle division via discrete units.
 
 
 ## Implications
@@ -35,25 +33,11 @@ This discovery exposes a **base-dependent geometric bias** in standard mathemati
 ```bibtex
 @misc{larsen2025dozenal,
   author = {Larsen, Eric},
-  title = {Dozenal Geometric Proofs: The 24-Gon in Base-12},
+  title = {Dozenal Geometric Proofs: The 24-Gon and Discrete Circle Division},
   year = {2025},
-  month = {October},
+  month = {nov},
   howpublished = {\url{https://github.com/dozenalericlarsen/dozenal-proofs}},
-  note = {Discovered with assistance from Grok (xAI)}
+  note = {Public repository with QR access, 5 lemmas, and print-ready PDF}
 }
-
-Permanent Linkgithub.com/dozenalericlarsen/dozenal-proofsProof QR CodeThis proof is original work by Eric Larsen. All rights reserved. Share freely with attribution.
-
-## Public Access
-
-Scan to access the full proof, lemmas, and coordinate tables:
-
-<div align="center">
-  <img src="dozenal-proof-qr.png" width="144" height="144" alt="QR Code: Dozenal Proof Repository">
-  <br>
-  <small><strong>1.5" × 1.5" • 96 DPI • Print-ready</strong></small>
-</div>
-
-**Direct Link:** [github.com/dozenalericlarsen/dozenal-proofs](https://github.com/dozenalericlarsen/dozenal-proofs)
 
 
