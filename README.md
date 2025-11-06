@@ -40,4 +40,17 @@ On the **base-12 (dozenal) Cartesian plane**, a regular 24-gon closes exactly un
   note = {Public repository with QR access, 5 lemmas, and print-ready PDF}
 }
 
+<div align="center">
+  <img src="dozenal-proof-qr.png" width="144" height="144" alt="QR Code: Dozenal Proof Repository">
+  
+
+  <small><strong>1.5" × 1.5" • 96 DPI • Print-ready</strong></small>
+</div>
+
+Direct Link: github.com/dozenalericlarsen/dozenal-proofs
+
+This proof is original work by Eric Larsen. All rights reserved. Share freely with attribution.
+
+
+
 
