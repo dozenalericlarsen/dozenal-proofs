@@ -44,4 +44,16 @@ This discovery exposes a **base-dependent geometric bias** in standard mathemati
 
 Permanent Linkgithub.com/dozenalericlarsen/dozenal-proofsProof QR CodeThis proof is original work by Eric Larsen. All rights reserved. Share freely with attribution.
 
+## Public Access
+
+Scan to access the full proof, lemmas, and coordinate tables:
+
+<div align="center">
+  <img src="dozenal-proof-qr.png" width="144" height="144" alt="QR Code: Dozenal Proof Repository">
+  <br>
+  <small><strong>1.5" × 1.5" • 96 DPI • Print-ready</strong></small>
+</div>
+
+**Direct Link:** [github.com/dozenalericlarsen/dozenal-proofs](https://github.com/dozenalericlarsen/dozenal-proofs)
+
 
